@@ -31,7 +31,8 @@ To reproduce the results:
 If you are interested in the full theoretical background, please refer to the corresponding research paper
 
 ## License
-This project is made available under the MIT License.
+
+This project is made available under the [MIT License](LICENSE).
 
 ## Contact
 For questions or collaborations, please contact:
