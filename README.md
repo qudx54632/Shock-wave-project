@@ -28,7 +28,7 @@ To reproduce the results:
 4. Figures will be saved into the `figures/` directory.
 
 ## Related Paper
-If you are interested in the full theoretical background, please refer to the corresponding research paper
+If you are interested in the full theoretical background, please refer to the corresponding research paper: https://arxiv.org/pdf/...
 
 ## License
 
